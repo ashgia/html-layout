@@ -1,13 +1,40 @@
-<!D0CTYPE html>
-<html>
-    <head>
-        <title> Third Solution </title>
-        <link rel="stylesheet" href="index.css" />
-    </head>
+.row {
+  height: 100px;
+  width: 100%;
+}
 
-    <body>
-    <div>
-    
-    </div>
-    </body>
-tml>
+.row-1 {
+  background-color: lightgray;
+  padding: 25px;
+  box-sizing: border-box;
+}
+
+.row-1-div {
+  background-color: rgba(62, 133, 255, 0.959);
+  width: 60px;
+  height: 60px;
+}
+
+.row-2 {
+  background-color: white;
+  box-sizing: border-box;
+  padding: 50px;
+  height: 200px;
+  width: 100%;
+}
+
+.row-3 {
+  background-color: rgba(82, 139, 239, 0.959);
+}
+
+.row-4 {
+  background-color: rgb(109, 229, 171);
+}
+
+.row-5 {
+  background-color: rgb(178, 225, 120);
+}
+
+.row-6 {
+  background-color: rgb(255, 242, 0);
+}
